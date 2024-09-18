@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, ;
+    font-size: 2em;
+}
+
+#lbl{
+font-size: 1em;
+}
+#btns{
+    padding: 5px 20px;
+    font-size: 1em;
+    text-align: center;
+}
+
+#mysubmit{
+    font-size: 1em;
+}
